@@ -114,13 +114,6 @@ flask run
 
 ---
 
-## 🎯 Future Improvements
-- ✅ **Voice Commands for Starting & Stopping Yoga Sessions** 🗣️  
-- ✅ **Personalized Yoga Recommendations** 📜  
-- ✅ **Integration with Wearable Devices (e.g., Smartwatches)** ⌚  
-
----
-
 ## 🤝 Contributing
 Feel free to submit a **pull request** or open an **issue** to contribute to this project! 🚀
 
@@ -133,6 +126,6 @@ MIT License - Free to use & modify.
 
 ## 📧 Contact
 For any issues or suggestions, contact:  
-📩 **your.email@example.com**  
-🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
-🔗 **GitHub:** [Your GitHub](https://github.com/yourusername)
+📩 **maddy@makeskilled.com**  
+🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/MadhuPIoT)  
+🔗 **GitHub:** [Your GitHub](https://github.com/maddydevgits)
